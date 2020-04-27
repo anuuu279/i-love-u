@@ -1,13 +1,13 @@
 i-love-you
 ==========
 
-``i-love-u`` is a tiny program that generates a lovely digital valentine's
+``i-love-u`` is a tiny program that generates a lovely digital birthday's
 day card. It is aesthetically inspired by `ythecombinator`_'s
-`happy-valentines`_, but with a twist -- it can draw an ASCII heart with the
+`happy-Birthday`_, but with a twist -- it can draw an ASCII heart with the
 name of your beloved one.
 
 .. _ythecombinator: https://github.com/ythecombinator
-.. _happy-valentines: https://github.com/ythecombinator/happy-valentines
+.. _happy-birthday: https://github.com/ythecombinator/happy-birthday
 
 
 Requirements
@@ -25,7 +25,7 @@ Simply replace the last bit with the name you want and send the whole thing.
 
 ::
 
-    $ curl -fsSL https://raw.githubusercontent.com/caianrais/i-love-u/master/src/i-love-u.py | python - Sabrina
+    $ curl -fsSL https://raw.githubusercontent.com/caianrais/i-love-u/master/src/i-love-u.py | python - pooja
 
 
 Motivation
